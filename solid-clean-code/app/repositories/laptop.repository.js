@@ -23,4 +23,4 @@ class LaptopRepository {
     }
 }
 
-module.exports = new LaptopRepository()
+module.exports = new LaptopRepository() // Singletone
