@@ -55,4 +55,4 @@ class LaptopController {
         }
     }
 }
-module.exports = new LaptopController()
+module.exports = new LaptopController() // Singletone
